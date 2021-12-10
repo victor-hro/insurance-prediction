@@ -2,10 +2,6 @@
 
   Predict the insurance cost
 
-<h3 align="center"> 
-	🚧  🚀 Em construção...  🚧
-</h3>
-
 ### :computer: Features
 
 - [x] Extração e limpeza dos dados;
