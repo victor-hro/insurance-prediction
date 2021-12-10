@@ -1,4 +1,4 @@
-# Insurance Prediction - Data Science
+# Insurance Cost Prediction - Data Science
 
   Predict the insurance cost
 
