@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/victo/Desktop/Victor/portifolio/medical-insurance-prediction/mlruns/0/6a8174e9b25f4604958fbe46b1e65024/artifacts
+end_time: 1700880184484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a8174e9b25f4604958fbe46b1e65024
+run_name: stylish-skink-469
+run_uuid: 6a8174e9b25f4604958fbe46b1e65024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700880177450
+status: 3
+tags: []
+user_id: victo
