@@ -12,8 +12,8 @@
   - [x] Medidas separatrizes e outliers.
 - [x] Machine Learning;
   - [x] Pré-processamento dos dados de entrada;
-  - [ ] Testar modelos e hiperparâmetros para reduzir o score do conjunto de validação;
-  - [ ] Avaliar a performance das predições no conjunto de teste;
+  - [x] Testar modelos e hiperparâmetros para reduzir o score do conjunto de validação;
+  - [x] Avaliar a performance das predições no conjunto de teste;
 
 ### 🛠 Tools
 
